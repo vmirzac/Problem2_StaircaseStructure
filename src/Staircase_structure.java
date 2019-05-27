@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Drawing a staircase structure - given the required height, output a staircase as shown in the example	
+
 public class Staircase_structure {
 
     public static void main(String[] args){
